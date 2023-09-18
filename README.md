@@ -14,5 +14,5 @@ X Education needs help in selecting the most promising leads, i.e. the leads tha
 The company needs a model wherein you a lead score is assigned to each of the leads such that the customers with higher lead score have  a higher conversion chance and the customers with lower lead score have a lower conversion chance.
 
 The CEO, in particular, has given a ballpark of the target lead conversion rate to be around 80%.
-![image](https://github.com/rash2607/lead_Score_Case_Study/assets/142427351/17a4d35d-c6e5-4195-9e51-663f6d6555f5)
+
 
